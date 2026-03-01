@@ -1,0 +1,6 @@
+# LLM tools
+.claude/
+.cursor/
+.copilot/
+.aider*
+.continue/
