@@ -1,4 +1,4 @@
-import van from "./van-1.5.5.min.js";
+import van from "./van-1.6.0.min.js";
 
 const { a, div, h1, p, input, button, span, code } = van.tags;
 
